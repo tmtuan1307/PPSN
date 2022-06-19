@@ -1,5 +1,5 @@
 # Code
-The paper "Learning Perceptual Position-aware Shapelet for Time Series", accepted by ECML PKDD 2022)
+The paper "Learning Perceptual Position-aware Shapelet for Time Series", accepted by ECML PKDD 2022
 
 ![alt text](https://github.com/tmtuan1307/ppsn/blob/eaa2a622e669daf6663a21e4fd81b706752f6b0d/ppsn.png)
 Fig. 1: General Architecture of Perceptual Position-aware Shapelets Network.
