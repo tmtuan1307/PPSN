@@ -1,7 +1,7 @@
 # Code
 Perceptual Position-aware Shapelet Network (Accepted to ECML PKDD 2022)
 
-![alt text](https://github.com/tmtuan1307/ppsn/ppsn.png?raw=true)
+![alt text](https://github.com/tmtuan1307/ppsn/blob/eaa2a622e669daf6663a21e4fd81b706752f6b0d/ppsn.png)
 
 ## Dependencies
 - pytorch 1.11.0 and above
